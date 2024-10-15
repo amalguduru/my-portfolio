@@ -37,7 +37,7 @@ const HeroSection = () => {
 
           <div>
             <Link
-              href="/files/Resume-2.pdf"
+              href="/files/Amal_Resume.pdf"
               target="_blank"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-red-500 to-red-500 hover:bg-slate-800 text-white mt-3"
             >
